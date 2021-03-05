@@ -74,3 +74,22 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+.DS_Store
+node_modules
+dist/
+clone/
+
+*/diff
+**/*/node_modules
+**/*/coverage
+**/*/.cache
+**/*/yarn-error.log
+**/*/yalc.lock
+**/*/.yalc
+
+.rpt2_cache/
+
+*.pyc
+
+*.tgz

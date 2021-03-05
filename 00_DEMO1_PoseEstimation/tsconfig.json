@@ -1,0 +1,12 @@
+{
+  "extends": "./tsconfig-origin.json",
+  "include": [
+    "src/"
+  ],
+  "exclude": [
+    "node_modules/"
+  ],
+  "compilerOptions": {
+    "outDir": "./dist"
+  }
+}
